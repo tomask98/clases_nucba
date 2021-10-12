@@ -1,0 +1,15 @@
+.title-2,h1{
+    color: black;
+    size: 10px;
+
+}
+p{
+    color:black;
+}
+.title-3,h2{
+    color:cyan;
+    size: 5px;
+}
+.img-1,img{
+    width: 300px;
+}

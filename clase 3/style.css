@@ -1,0 +1,37 @@
+body {
+    background-color: powderblue;
+}
+h1
+{
+    color: red;
+    text-align: center;
+    border-radius: 5px;
+}
+.tomate
+{
+    background-color: tomato;
+}
+.naranja
+{
+ background-color: orange;
+}
+.azul
+{
+    background-color: blue;
+}
+.limon
+{
+    background-color: lime;
+}
+.rosa
+{
+    background-color: lightpink;
+}
+.verde
+{
+    background-color: green;
+}
+.violeta
+{
+    background-color: violet;
+}
