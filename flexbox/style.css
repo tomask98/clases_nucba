@@ -1,0 +1,32 @@
+
+.wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+    text-align: center;  
+    border-radius: 15%;  
+}
+.wrapper > *{
+
+    padding: 10px;
+    flex: 1 100%;
+
+}
+.header{
+  background-color: #24633d;
+ 
+}
+footer{
+    background-color: wheat;
+}
+.main{
+    background-color: snow;
+    text-align: left;
+}
+.aside-1{
+    background-color: slateblue;
+
+}
+.aside-2{
+    background-color: springgreen;
+}
